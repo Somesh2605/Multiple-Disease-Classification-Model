@@ -14,7 +14,7 @@ Given a set of binary symptom indicators (0 = No, 1 = Yes), predict the most pro
 4.Total Disease Classes: 41
 5.The dataset is unstructured and clean with missing values.
 
-**Approach**
+**Approach:**
 1.Imported and validated the dataset
 2.Separated features and target variable
 3.Performed train-test split
@@ -33,15 +33,17 @@ The model achieved high classification accuracy on the test dataset.
 Performance metrics indicate strong precision and recall across all disease classes.
 
 **Tech Stack:**
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Scikit-learn,
+Matplotlib,
+Seaborn,
 
 **Project Structure:**
+
 Multiple-Disease-Classification-Model/
+
 │
 ├── Multiple_Disease_Prediction.ipynb
 ├── README.md
@@ -49,13 +51,13 @@ Multiple-Disease-Classification-Model/
 
 **Future Improvements:**
 1. Cross-validation for more robust evaluation
+
 2. Feature importance analysis
+
 3. Comparison with other classification models
+
 4.Deployment using a lightweight web interface
 
 **Somesh Ashok Bagal
 Data Analyst**
 
-This looks clean, professional, and natural — not AI-heavy.
-
-If you want, I can also slightly tune it depending on whether you want it to look more ML-focused or more Data Analyst portfolio-oriented.
